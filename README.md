@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edmundhhn
-- 👀 I’m interested in data science
+- 👀 I’m an aspiring data scientist, currently doing my MSDS at Vanderbilt University
 - 📫 How to reach me Edmund.Hui@Vanderbilt.Edu 
 
 <!---
